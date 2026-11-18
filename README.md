@@ -115,6 +115,6 @@ Start by inspecting `result.csv` and `lc.jpg`; joint fits also produce `rv.jpg`.
 
 If you use our models in your research, please cite both of the following papers:
 
-1. *A Neural Network–Based Tool for Rapid Orbital Solution of Contact Binary Systems*
+1. *A Neural Network–Based Tool for Rapid Orbital Solution of Contact Binary Systems, Wang, L.-H., Li, K., & Guo, Y.-N. 2026, The Astrophysical347 Journal, 1012, 128, doi: 10.3847/1538-4357/aeb40d*
 2. *A Neural-network Model for Quickly Solving Multiple-band Light Curves of Contact Binaries, Li, K., Wang, L.-H., & Gao, X. 2025, ApJS, 281, 1, doi: 10.3847/1538-4365/ae064c* 
 
